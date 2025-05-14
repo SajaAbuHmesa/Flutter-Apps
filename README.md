@@ -105,16 +105,8 @@ You can easily modify:
 
 ---
 
-## 📸 Preview (Optional)
+## 📸 Preview 
 
-> You can add screenshots or screen recordings here.
+![image](https://github.com/user-attachments/assets/41c197ae-394f-450d-b434-556d5409128f)
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to fork this repo and add your own customizations! 🎉
